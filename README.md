@@ -17,7 +17,3 @@ This project is an AI-powered content creator designed to generate memes and com
 - GUI framework (Tkinter, PyQt, or a web-based solution)
 - Database (SQLite, PostgreSQL) for storing generated content
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
